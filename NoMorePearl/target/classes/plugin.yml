@@ -1,0 +1,4 @@
+name: NoMorePearl
+version: '2.0'
+main: me.gowthr.nomorepearl.NoMorePearl
+api-version: '1.20'
